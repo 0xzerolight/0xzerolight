@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Refresh the ⭐ star count on each README line that links a GitHub repo."""
+"""Refresh the ★ star count on each README line that links a GitHub repo."""
 import json
 import os
 import re
@@ -7,7 +7,7 @@ import urllib.request
 
 README = os.path.join(os.path.dirname(os.path.abspath(__file__)), "README.md")
 REPO = re.compile(r"github\.com/([\w.-]+)/([\w.-]+)")
-STAR = re.compile(r"⭐️? *\d*")
+STAR = re.compile(r"★ *\d*")
 
 
 def stars(owner, name):
@@ -25,7 +25,7 @@ def refresh(line):
     repo = REPO.search(line)
     if not repo or not STAR.search(line):
         return line
-    return STAR.sub(f"⭐ {stars(*repo.groups())}", line, count=1)
+    return STAR.sub(f"★ {stars(*repo.groups())}", line, count=1)
 
 
 def main():
