@@ -9,7 +9,7 @@
 
 #### Self-hosted
 - [Topic Watch](https://github.com/0xzerolight/topic_watch): Self-hosted news monitor with LLM-powered novelty detection. ★ 14
-- [Watchpost](https://github.com/0xzerolight/watchpost): Self-hosted GitHub repo analytics with permanent history and note markers. ★ 1
+- [Watchpost](https://github.com/0xzerolight/watchpost): Self-hosted GitHub repo analytics with permanent history and notes. ★ 1
 
 #### Language learning
-- [Inceput](https://github.com/0xzerolight/inceput): Modern Romanian core vocabulary Anki deck. ★ 1
+- [Început](https://github.com/0xzerolight/inceput): Început is a modern Romanian core vocabulary Anki deck. ★ 1
