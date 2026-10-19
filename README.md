@@ -1,5 +1,3 @@
-### <ins>Projects</ins>
-
 #### Anki Miner
 - [Anki Miner](https://github.com/0xzerolight/anki_miner): Automated vocabulary mining from media. ★ 113
 - [Anki Miner Android](https://github.com/0xzerolight/anki_miner_android): Automated vocabulary mining from media on Android. ★ 13
