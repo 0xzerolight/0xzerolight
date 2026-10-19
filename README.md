@@ -12,4 +12,4 @@
 - [Watchpost](https://github.com/0xzerolight/watchpost): Self-hosted GitHub repo analytics with permanent history and note markers. ★ 1
 
 #### Language learning
-- [Inceput](https://github.com/0xzerolight/inceput): Modern Romanian core vocabulary Anki deck. ★
+- [Inceput](https://github.com/0xzerolight/inceput): Modern Romanian core vocabulary Anki deck. ★ 1
