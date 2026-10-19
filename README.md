@@ -8,5 +8,5 @@
 | [anki_miner_android](https://github.com/0xzerolight/anki_miner_android) | Automated vocabulary mining from media on Android. | Kotlin | 13 |
 | [anki_miner_note](https://github.com/0xzerolight/anki_miner_note) | Multilingual Anki note type for Anki Miner. | Python | 6 |
 | [anki_miner_game](https://github.com/0xzerolight/anki_miner_game) | Record game sessions through OBS with subtitles for mining in Anki Miner. | Python | 4 |
-| [watchpost](https://github.com/0xzerolight/watchpost) | Self-hosted GitHub repo analytics with permanent history and note markers. | Rust | 0 |
+| [watchpost](https://github.com/0xzerolight/watchpost) | Self-hosted GitHub repo analytics with permanent history and note markers. | Rust | 1 |
 <!-- projects:end -->
