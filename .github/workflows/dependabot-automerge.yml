@@ -1,0 +1,22 @@
+name: Dependabot auto-merge
+
+# Merges Dependabot PRs as soon as they open. This repo has no CI, so there are
+# no required checks to wait for: the next daily update-readme.yml run is the
+# test of an action bump.
+on: pull_request
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  automerge:
+    if: github.event.pull_request.user.login == 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Merge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
+        run: gh pr merge --squash --delete-branch "$PR_URL"
