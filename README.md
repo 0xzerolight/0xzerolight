@@ -6,7 +6,7 @@
 - [Anki Miner Assets](https://github.com/0xzerolight/anki_miner_assets): Release assets for Anki Miner. ★ 2
 
 #### Self-hosted
-- [Topic Watch](https://github.com/0xzerolight/topic_watch): Self-hosted news monitor with LLM-powered novelty detection. ★ 14
+- [Topic Watch](https://github.com/0xzerolight/topic_watch): Self-hosted news monitor with LLM-powered novelty detection. ★ 15
 - [Watchpost](https://github.com/0xzerolight/watchpost): Self-hosted GitHub repo analytics with permanent history and notes. ★ 1
 
 #### Language learning
