@@ -11,3 +11,4 @@
 
 #### Language learning
 - [Început](https://github.com/0xzerolight/inceput): Început is a modern Romanian core vocabulary Anki deck. ★ 1
+- [monosashi](https://github.com/0xzerolight/monosashi): A measurement tool for Japanese tokenizers. ★ 1
