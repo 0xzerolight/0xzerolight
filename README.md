@@ -12,3 +12,6 @@
 #### Language learning
 - [Început](https://github.com/0xzerolight/inceput): Început is a modern Romanian core vocabulary Anki deck. ★ 1
 - [monosashi](https://github.com/0xzerolight/monosashi): A measurement tool for Japanese tokenizers. ★ 3
+
+#### KDE Plasma
+- [Worldline](https://github.com/0xzerolight/worldline): Nixie-tube divergence meter widget for KDE Plasma 6. ★ 1
