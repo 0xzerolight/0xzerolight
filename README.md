@@ -6,7 +6,7 @@
 - [Anki Miner Assets](https://github.com/0xzerolight/anki_miner_assets): Release assets for Anki Miner. ★ 2
 
 #### Self-hosted
-- [Topic Watch](https://github.com/0xzerolight/topic_watch): Self-hosted news monitor with LLM-powered novelty detection. ★ 16
+- [Topic Watch](https://github.com/0xzerolight/topic_watch): Self-hosted news monitor with LLM-powered novelty detection. ★ 17
 - [Watchpost](https://github.com/0xzerolight/watchpost): Self-hosted GitHub repo analytics with permanent history and notes. ★ 1
 
 #### Language learning
@@ -14,4 +14,4 @@
 - [monosashi](https://github.com/0xzerolight/monosashi): A measurement tool for Japanese tokenizers. ★ 3
 
 #### KDE Plasma
-- [Worldline](https://github.com/0xzerolight/worldline): Nixie-tube divergence meter widget for KDE Plasma 6. ★ 1
+- [Worldline](https://github.com/0xzerolight/worldline): Nixie-tube divergence meter widget for KDE Plasma 6. ★ 2
